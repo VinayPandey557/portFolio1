@@ -1,4 +1,5 @@
 This is a simple Portfolio website.
+This Portfolio website is built using NextJs and Framer Motion for animation.
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
